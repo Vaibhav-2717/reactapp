@@ -53,7 +53,7 @@ function SignUp() {
       <div className="form-check">
         <input className="form-check-input" type="checkbox" id="gridCheck1"></input>
         <label className="form-check-label" for="gridCheck1">
-          This is not Robot
+          I am not Robot
         </label>
       </div>
     </div>
